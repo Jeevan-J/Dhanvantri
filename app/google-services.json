@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "999907041852",
+    "firebase_url": "https://dhanvantri-29421.firebaseio.com",
+    "project_id": "dhanvantri-29421",
+    "storage_bucket": "dhanvantri-29421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999907041852:android:539c9b08449c32d9",
+        "android_client_info": {
+          "package_name": "in.ac.iittp.cse.dhanvantri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999907041852-rnl7r4bgv5epi53i318f414u71gt67kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.iittp.cse.dhanvantri",
+            "certificate_hash": "e164c580d71cb421eec59b67bb8390749b0dcc24"
+          }
+        },
+        {
+          "client_id": "999907041852-hnpms15svk2rj9kccqf2r07di7qf2dje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0hhNSB2n6B7ysJSNE0Q25F9p_aO9KLcw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999907041852-hnpms15svk2rj9kccqf2r07di7qf2dje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
